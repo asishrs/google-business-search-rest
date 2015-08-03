@@ -1,4 +1,4 @@
-package org.yagna.samples.googlebizsearch;
+package org.yagna.samples.searchbiz;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import se.walkercrou.places.Place;
 
 public class TestGooglePlaces {
 
-	GooglePlaces client = new GooglePlaces("AIzaSyAcGqQBsjV7YCDMiMAMv7y5rGI5jM0_lZU");
+	GooglePlaces client = new GooglePlaces("test.key");
 
 	
 	@Test
