@@ -11,14 +11,14 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<se.walkercrou.version>2.1.2</se.walkercrou.version>
-		<com.fasterxml.jackson.version>2.10.0.pr1</com.fasterxml.jackson.version>
+		<com.fasterxml.jackson.version>2.12.6</com.fasterxml.jackson.version>
 		<org.apache.commons.version>3.4</org.apache.commons.version>
-		<spring-framework.version>4.2.0.RELEASE</spring-framework.version>
-		<hibernate.version>4.2.1.Final</hibernate.version>
-		<logback.version>1.2.0</logback.version>
+		<spring-framework.version>5.2.19.RELEASE</spring-framework.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
+		<logback.version>1.2.7</logback.version>
 		<slf4j.version>1.7.5</slf4j.version>
 		<junit.version>4.13.1</junit.version>
-		<com.google.guava.properties>19.0-rc1</com.google.guava.properties>
+		<com.google.guava.properties>30.0-android</com.google.guava.properties>
 		<org.eclipse.jetty.version>9.3.0.M2</org.eclipse.jetty.version>
 	</properties>
 
