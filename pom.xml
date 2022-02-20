@@ -14,7 +14,7 @@
 		<com.fasterxml.jackson.version>2.12.6</com.fasterxml.jackson.version>
 		<org.apache.commons.version>3.4</org.apache.commons.version>
 		<spring-framework.version>5.2.19.RELEASE</spring-framework.version>
-		<hibernate.version>5.4.24.Final</hibernate.version>
+		<hibernate.version>5.6.5.Final</hibernate.version>
 		<logback.version>1.2.7</logback.version>
 		<slf4j.version>1.7.5</slf4j.version>
 		<junit.version>4.13.1</junit.version>
