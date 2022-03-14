@@ -15,7 +15,7 @@
 		<org.apache.commons.version>3.4</org.apache.commons.version>
 		<spring-framework.version>5.3.15</spring-framework.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
-		<logback.version>1.2.7</logback.version>
+		<logback.version>1.2.10</logback.version>
 		<slf4j.version>1.7.35</slf4j.version>
 		<junit.version>4.13.1</junit.version>
 		<com.google.guava.properties>30.0-android</com.google.guava.properties>
