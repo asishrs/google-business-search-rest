@@ -13,7 +13,7 @@
 		<se.walkercrou.version>2.1.2</se.walkercrou.version>
 		<com.fasterxml.jackson.version>2.13.2</com.fasterxml.jackson.version>
 		<org.apache.commons.version>3.4</org.apache.commons.version>
-		<spring-framework.version>5.3.15</spring-framework.version>
+		<spring-framework.version>5.3.17</spring-framework.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<logback.version>1.2.7</logback.version>
 		<slf4j.version>1.7.35</slf4j.version>
