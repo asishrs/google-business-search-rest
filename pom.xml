@@ -18,7 +18,7 @@
 		<logback.version>1.2.7</logback.version>
 		<slf4j.version>1.7.35</slf4j.version>
 		<junit.version>4.13.1</junit.version>
-		<com.google.guava.properties>30.0-android</com.google.guava.properties>
+		<com.google.guava.properties>30.1.1-android</com.google.guava.properties>
 		<org.eclipse.jetty.version>9.3.0.M2</org.eclipse.jetty.version>
 	</properties>
 
